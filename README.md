@@ -43,11 +43,11 @@
 
 <br/><br/>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7C3AED)
+![](https://komarev.com/ghpvc/?username=amanjais123&style=for-the-badge&color=7C3AED)
 
-![](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=6D28D9)
+![](https://img.shields.io/github/followers/amanjais123?style=for-the-badge&color=6D28D9)
 
-![](https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&color=4F46E5)
+![](https://img.shields.io/github/stars/amanjais123?affiliations=OWNER&style=for-the-badge&color=4F46E5)
 
 </div>
 
@@ -70,8 +70,6 @@ I strongly believe that exceptional software is built by combining engineering e
 - Software Engineering
 - Backend Architecture
 - AI Product Engineering
-- Machine Learning
-- Distributed Systems
 - Full Stack Development
 - Cloud Computing
 - DevOps & CI/CD
@@ -85,8 +83,6 @@ I strongly believe that exceptional software is built by combining engineering e
 ✔ Software Engineering Internships
 
 ✔ Backend Engineering Roles
-
-✔ AI / ML Engineering
 
 ✔ Full Stack Development
 
@@ -124,7 +120,7 @@ I strongly believe that exceptional software is built by combining engineering e
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,bun,hono,prisma" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,bun,prisma" />
 
 </p>
 
@@ -140,68 +136,13 @@ I strongly believe that exceptional software is built by combining engineering e
 
 ---
 
-## Cloud • DevOps • Tooling
+## Cloud • DevOps 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,linux,jenkins,git,github,postman,vercel,cloudflare,nginx" />
+<img src="https://skillicons.dev/icons?i=docker,linux,jenkins,git,github,aws,azure" />
 
 </p>
-
----
-
-## AI / Machine Learning
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-
-</p>
-
----
-
-## Architecture & Engineering Principles
-
-<div align="center">
-
-| Engineering | Expertise |
-|-------------|-----------|
-| REST APIs | ⭐⭐⭐⭐⭐ |
-| Authentication | ⭐⭐⭐⭐⭐ |
-| JWT Security | ⭐⭐⭐⭐⭐ |
-| Database Design | ⭐⭐⭐⭐⭐ |
-| RBAC | ⭐⭐⭐⭐⭐ |
-| Microservices | ⭐⭐⭐⭐☆ |
-| Event Driven Systems | ⭐⭐⭐⭐☆ |
-| AI Integrations | ⭐⭐⭐⭐⭐ |
-| Scalable Backend Systems | ⭐⭐⭐⭐⭐ |
-| Performance Optimization | ⭐⭐⭐⭐⭐ |
-
-</div>
-
----
-# AI / Machine Learning Expertise
-
-<div align="center">
-
-Building intelligent software is no longer optional—it's the foundation of modern engineering. My focus lies in integrating AI into real-world products while maintaining scalability, reliability, and exceptional developer experience.
-
-</div>
-
-<br>
-
-| Domain | Proficiency | Details |
-|----------|-------------|---------|
-| Machine Learning | ⭐⭐⭐⭐☆ | Supervised & Unsupervised Learning, Model Training, Feature Engineering |
-| Deep Learning | ⭐⭐⭐⭐☆ | CNNs, Transfer Learning, TensorFlow, PyTorch |
-| Natural Language Processing | ⭐⭐⭐⭐☆ | LLM APIs, Prompt Engineering, AI Chat Systems |
-| Generative AI | ⭐⭐⭐⭐⭐ | OpenAI, Claude, Gemini Integrations |
-| AI Product Engineering | ⭐⭐⭐⭐⭐ | AI-first Product Design, Intelligent Workflows |
-| Computer Vision | ⭐⭐⭐⭐☆ | OpenCV, Image Processing, Object Detection |
-| AI Backend Systems | ⭐⭐⭐⭐⭐ | Streaming APIs, Context Retrieval, Session Management |
-| AI Automation | ⭐⭐⭐⭐⭐ | Event Driven AI Pipelines |
-| Prompt Engineering | ⭐⭐⭐⭐⭐ | Production-grade Prompt Design |
-| MLOps Fundamentals | ⭐⭐⭐⭐☆ | Model Deployment, Monitoring & API Integration |
 
 ---
 
@@ -649,9 +590,9 @@ Worked as a **Backend Developer Intern**, contributing to the design, optimizati
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanjais123&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanjais123&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
 
@@ -659,7 +600,7 @@ Worked as a **Backend Developer Intern**, contributing to the design, optimizati
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=amanjais123&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
 
@@ -683,7 +624,7 @@ Worked as a **Backend Developer Intern**, contributing to the design, optimizati
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&radius=15"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amanjais123&theme=tokyo-night&hide_border=true&radius=15"/>
 
 </div>
 
@@ -695,7 +636,7 @@ Worked as a **Backend Developer Intern**, contributing to the design, optimizati
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/amanjais123/amanjais123/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
