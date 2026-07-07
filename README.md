@@ -14,47 +14,44 @@
 
 <div align="center">
 
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.icons8.com/ios-filled/50/8B5CF6/globe--v1.png" height="42"/>
+<a href="YOUR_PORTFOLIO" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/8B5CF6/globe--v1.png" height="42" alt="Portfolio"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="42" />
+<a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="42" alt="LinkedIn"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:amanjais102@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" height="42"/>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="42" alt="Email"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" height="42"/>
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="42" alt="GitHub"/>
 </a>
-
 
 </div>
-</br> 
+
+<br>
+
 <div align="center">
 
-<!-- LeetCode -->
 <a href="https://leetcode.com/YOUR_USERNAME" target="_blank">
   <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="42" alt="LeetCode"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
-<!-- GeeksforGeeks -->
 <a href="https://auth.geeksforgeeks.org/user/YOUR_USERNAME" target="_blank">
   <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="42" alt="GeeksforGeeks"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
-<!-- CodeChef -->
 <a href="https://www.codechef.com/users/YOUR_USERNAME" target="_blank">
   <img src="https://cdn.simpleicons.org/codechef/5B4638" height="42" alt="CodeChef"/>
 </a>
-
 
 </div>
 
