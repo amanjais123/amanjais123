@@ -275,17 +275,6 @@ The platform emphasizes security, maintainability, and excellent user experience
 
 Worked as a **Backend Developer Intern**, contributing to the design, optimization, and maintenance of scalable backend services powering a production-grade application. Focused on improving API performance, database efficiency, and building secure RESTful services following modern software engineering practices.
 
-### Scope of Work
-
-- Engineered scalable backend services using **Node.js** and **Express.js**
-- Optimized MongoDB queries through efficient schema design and indexing
-- Improved API response times for services handling **1000+ requests/day**
-- Collaborated closely with frontend developers to build reliable REST APIs
-- Enhanced application reliability by reducing API response errors
-- Participated in debugging, testing, and production issue resolution
-- Followed Git-based collaborative development workflows
-- Contributed to maintainable and modular backend architecture
-
 ---
 
 ### Key Contributions
@@ -300,26 +289,6 @@ Worked as a **Backend Developer Intern**, contributing to the design, optimizati
 
 ---
 
-### Technologies Used
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/REST_API-6D28D9?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-</p>
-
----
-
 # Leadership & Positions of Responsibility
 
 ---
@@ -330,145 +299,6 @@ Worked as a **Backend Developer Intern**, contributing to the design, optimizati
 |-----------|--------------|----------|
 | **Vice President** | Drone & IoT Club, MMMUT | Mar 2026 – Present |
 | **Joint Secretary** | Drone & IoT Club, MMMUT | Jun 2025 – Mar 2026 |
-
-</div>
-
-### Leadership Highlights
-
-- Organized technical workshops on IoT, Embedded Systems, and Drone Technology
-- Led technical teams during engineering events and hackathons
-- Mentored junior students in software development and electronics
-- Coordinated large-scale technical events and competitions
-- Promoted collaborative learning and innovation culture
-
----
-
-# Achievements
-
----
-
-<div align="center">
-
-| Recognition | Details |
-|-------------|---------|
-| 🏆 Smart India Hackathon | Qualified at College Level (SIH) |
-| 🎓 Academic Excellence | Maintaining **8.91 CGPA** in B.Tech (ECE - IoT) |
-| 🚀 Leadership | Appointed **Vice President** of Drone & IoT Club |
-| ⭐ Organizational Leadership | Served as **Joint Secretary** of Drone & IoT Club |
-| 💻 Backend Engineering | Improved MongoDB performance by **35%** during internship |
-| ⚡ API Engineering | Reduced backend API response errors by **25%** |
-| 🌐 Product Development | Built multiple production-ready Full Stack applications |
-| 🤖 AI Engineering | Developed AI-powered developer tools and workflow automation platforms |
-
-</div>
-
----
-
-# Certifications
-
----
-
-## Amazon Web Services (AWS)
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-</p>
-
----
-
-## Oracle
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Oracle-Java-CC2927?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Oracle-SQL-CC2927?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-</p>
-
----
-
-## Cisco
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Cisco-Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-</p>
-
----
-
-## NPTEL
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/NPTEL-Programming-8B5CF6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NPTEL-Data%20Structures-8B5CF6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NPTEL-Database%20Management-8B5CF6?style=for-the-badge"/>
-
-</p>
-
-> **Note:** Replace the above badges with your actual earned certifications. Remove any badges that do not apply.
-
----
-
-# Coding Profiles
-
----
-
-<div align="center">
-
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-<a href="https://www.codechef.com/users/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge"/>
-</a>
-
-</div>
-
----
-
-## Competitive Programming
-
-<div align="center">
-
-| Platform | Focus |
-|----------|-------|
-| LeetCode | Data Structures & Algorithms |
-| GeeksforGeeks | Interview Preparation |
-| HackerRank | Problem Solving & SQL |
-| CodeChef | Competitive Programming |
-| Codeforces | Algorithmic Contests |
-
-</div>
-
----
-
-<div align="center">
-
-### *"Engineering is not just about writing code—it's about building systems that scale, inspire, and create lasting impact."*
 
 </div>
 
@@ -501,7 +331,7 @@ Worked as a **Backend Developer Intern**, contributing to the design, optimizati
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=amanjais123&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -533,71 +363,6 @@ Worked as a **Backend Developer Intern**, contributing to the design, optimizati
 
 ---
 
-# Current Focus
-
-```yaml
-current_focus:
-
-  learning:
-    - Advanced System Design
-    - Distributed Systems
-    - Cloud Native Development
-    - Large Language Models
-    - Kubernetes
-    - Scalable Backend Architecture
-
-  building:
-    - AI Developer Tools
-    - Enterprise SaaS Applications
-    - Workflow Automation Platforms
-    - Full Stack Web Applications
-    - Open Source Projects
-
-  exploring:
-    - Agentic AI
-    - Multi-Agent Systems
-    - RAG Pipelines
-    - MLOps
-    - Event Driven Architectures
-    - High Performance Databases
-
-  open_to:
-    - Software Engineering Internships
-    - Backend Engineering Roles
-    - AI / ML Engineering
-    - Open Source Collaboration
-    - Research Opportunities
-    - Product Engineering
-```
-
----
-
-# Connect
-
----
-
-<div align="center">
-
-<a href="mailto:amanjais102@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
 <div align="center">
 
 ### Let's build software that is scalable, reliable, and makes a meaningful impact.
@@ -605,41 +370,6 @@ current_focus:
 </div>
 
 ---
-
-# Support My Work
-
-<div align="center">
-
-If you like my projects or find them helpful, consider giving them a ⭐.
-
-It motivates me to keep building and contributing to open source.
-
-</div>
-
----
-
-# Visitor Statistics
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7C3AED)
-
-</div>
-
----
-
-# Quote
-
-<div align="center">
-
-> **"First, solve the problem. Then, write the code."**  
-> — John Johnson
-
-</div>
-
----
-
-<div align="center">
 
 ### Thanks for visiting my profile!
 
