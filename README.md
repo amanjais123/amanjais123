@@ -36,6 +36,38 @@
 
 
 </div>
+<div align="center">
+
+<!-- LeetCode -->
+<a href="https://leetcode.com/YOUR_USERNAME" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="42" alt="LeetCode"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<!-- GeeksforGeeks -->
+<a href="https://auth.geeksforgeeks.org/user/YOUR_USERNAME" target="_blank">
+  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="42" alt="GeeksforGeeks"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<!-- HackerRank -->
+<a href="https://www.hackerrank.com/YOUR_USERNAME" target="_blank">
+  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="42" alt="HackerRank"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<!-- CodeChef -->
+<a href="https://www.codechef.com/users/YOUR_USERNAME" target="_blank">
+  <img src="https://cdn.simpleicons.org/codechef/5B4638" height="42" alt="CodeChef"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<!-- Codeforces -->
+<a href="https://codeforces.com/profile/YOUR_USERNAME" target="_blank">
+  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="42" alt="Codeforces"/>
+</a>
+
+</div>
 
 </div>
 
