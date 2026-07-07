@@ -279,6 +279,9 @@ Worked as a **Backend Developer Intern**, contributing to the design, optimizati
 
 ### Key Contributions
 
+<div align="center">
+
+
 | Area | Impact |
 |------|--------|
 | Backend Optimization | Improved backend efficiency through code optimization |
@@ -287,6 +290,7 @@ Worked as a **Backend Developer Intern**, contributing to the design, optimizati
 | Scalability | Supported services handling **1000+ daily requests** |
 | Collaboration | Worked closely with frontend developers for seamless integration |
 
+</div> 
 ---
 
 # Leadership & Positions of Responsibility
@@ -309,33 +313,12 @@ Worked as a **Backend Developer Intern**, contributing to the design, optimizati
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanjais123&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanjais123&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=amanjais123&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
 
 ---
 
-# GitHub Trophies
-
----
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amanjais123&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
 
 # Contribution Activity
 
