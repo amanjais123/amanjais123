@@ -14,12 +14,13 @@
 
 <div align="center">
 
-<a href="YOUR_PORTFOLIO" target="_blank">
-<img src="https://cdn.simpleicons.org/googlechrome/8B5CF6" height="42"/>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.icons8.com/ios-filled/50/8B5CF6/globe--v1.png" height="42"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+<a href="https://linkedin.com/in/YOUR_USERNAME">
 <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="42"/>
 </a>
 &nbsp;&nbsp;&nbsp;
@@ -29,9 +30,10 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<a href="https://github.com/YOUR_USERNAME">
 <img src="https://cdn.simpleicons.org/github/FFFFFF" height="42"/>
 </a>
+
 
 </div>
 
