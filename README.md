@@ -291,7 +291,6 @@ Worked as a **Backend Developer Intern**, contributing to the design, optimizati
 | Collaboration | Worked closely with frontend developers for seamless integration |
 
 </div> 
----
 
 # Leadership & Positions of Responsibility
 
