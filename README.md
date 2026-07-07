@@ -170,7 +170,7 @@ Instead of acting as a simple chatbot, NightCode behaves like an intelligent sof
 
 </details>
 
----
+
 
 <details>
 <summary>
@@ -213,7 +213,7 @@ The platform focuses on scalability, modularity, and seamless third-party integr
 
 </details>
 
----
+
 
 <details>
 <summary>
@@ -259,7 +259,6 @@ The platform emphasizes security, maintainability, and excellent user experience
 ---
 # Experience
 
----
 
 <div align="center">
 
@@ -273,7 +272,6 @@ The platform emphasizes security, maintainability, and excellent user experience
 
 Worked as a **Backend Developer Intern**, contributing to the design, optimization, and maintenance of scalable backend services powering a production-grade application. Focused on improving API performance, database efficiency, and building secure RESTful services following modern software engineering practices.
 
----
 
 ### Key Contributions
 
@@ -290,9 +288,10 @@ Worked as a **Backend Developer Intern**, contributing to the design, optimizati
 
 </div> 
 
+---
 # Leadership & Positions of Responsibility
 
----
+
 
 <div align="center">
 
@@ -306,7 +305,6 @@ Worked as a **Backend Developer Intern**, contributing to the design, optimizati
 ---
 # GitHub Analytics
 
----
 
 <div align="center">
 
@@ -319,7 +317,7 @@ Worked as a **Backend Developer Intern**, contributing to the design, optimizati
 
 # Contribution Activity
 
----
+
 
 <div align="center">
 
@@ -331,7 +329,6 @@ Worked as a **Backend Developer Intern**, contributing to the design, optimizati
 
 # Contribution Snake
 
----
 
 <div align="center">
 
