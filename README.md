@@ -12,42 +12,28 @@
 
 <br/><br/>
 
-![](https://img.shields.io/badge/B.Tech-ECE(IoT)-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/MMMUT-Gorakhpur-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/CGPA-8.91-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/Graduation-2027-4338CA?style=for-the-badge)
+<div align="center">
 
-<br/>
-
-![](https://img.shields.io/badge/Location-Gorakhpur,%20India-312E81?style=flat-square)
-![](https://img.shields.io/badge/Open%20to-Software%20Engineering-6D28D9?style=flat-square)
-![](https://img.shields.io/badge/Open%20to-AI%20Engineering-7C3AED?style=flat-square)
-
-<br/><br/>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="YOUR_PORTFOLIO" target="_blank">
+<img src="https://skillicons.dev/icons?i=webstorm" height="48" alt="Portfolio"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:amanjais102@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-![](https://komarev.com/ghpvc/?username=amanjais123&style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/followers/amanjais123?style=for-the-badge&color=6D28D9)
-
-![](https://img.shields.io/github/stars/amanjais123?affiliations=OWNER&style=for-the-badge&color=4F46E5)
+</div>
 
 </div>
 
