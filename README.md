@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,30:6D28D9,60:7C3AED,100:312E81&text=Aman%20Jaiswal&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,30:6D28D9,60:7C3AED,100:312E81&text=Aman%20Jaiswal&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=900&lines=Software+Engineer;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Building+Scalable+Products;Backend+Engineer;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=900&lines=Software+Engineer;Full+Stack+Developer;Building+Scalable+Products;Backend+Engineer;Open+Source+Contributor"/>
 
 <br/><br/>
 
