@@ -44,14 +44,18 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://auth.geeksforgeeks.org/user/YOUR_USERNAME" target="_blank">
-  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="42" alt="GeeksforGeeks"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="https://www.codechef.com/users/YOUR_USERNAME" target="_blank">
   <img src="https://cdn.simpleicons.org/codechef/5B4638" height="42" alt="CodeChef"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+<a href="https://auth.geeksforgeeks.org/user/YOUR_USERNAME" target="_blank">
+  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="42" alt="GeeksforGeeks"/>
+</a>
+
+
+
 
 </div>
 
