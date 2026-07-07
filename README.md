@@ -14,23 +14,23 @@
 
 <div align="center">
 
-<a href="https://amanjais.vercel.app" target="_blank">
-<img src="https://skillicons.dev/icons?i=website" height="48" alt="Portfolio"/>
+<a href="YOUR_PORTFOLIO" target="_blank">
+<img src="https://cdn.simpleicons.org/googlechrome/8B5CF6" height="42"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/>
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="42"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:amanjais102@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email"/>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" height="42"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/YOUR_USERNAME" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/>
+<img src="https://cdn.simpleicons.org/github/FFFFFF" height="42"/>
 </a>
 
 </div>
