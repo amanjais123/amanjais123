@@ -18,17 +18,16 @@
 <a href="YOUR_PORTFOLIO">
 <img src="https://img.icons8.com/ios-filled/50/8B5CF6/globe--v1.png" height="42"/>
 </a>
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/YOUR_USERNAME">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="42" />
 </a>
-&nbsp;&nbsp;&nbsp;
+
 
 <a href="mailto:amanjais102@gmail.com">
 <img src="https://cdn.simpleicons.org/gmail/EA4335" height="42"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+
 
 <a href="https://github.com/YOUR_USERNAME">
 <img src="https://cdn.simpleicons.org/github/FFFFFF" height="42"/>
@@ -43,30 +42,19 @@
 <a href="https://leetcode.com/YOUR_USERNAME" target="_blank">
   <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="42" alt="LeetCode"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+
 
 <!-- GeeksforGeeks -->
 <a href="https://auth.geeksforgeeks.org/user/YOUR_USERNAME" target="_blank">
   <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="42" alt="GeeksforGeeks"/>
 </a>
-&nbsp;&nbsp;&nbsp;
 
-<!-- HackerRank -->
-<a href="https://www.hackerrank.com/YOUR_USERNAME" target="_blank">
-  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="42" alt="HackerRank"/>
-</a>
-&nbsp;&nbsp;&nbsp;
 
 <!-- CodeChef -->
 <a href="https://www.codechef.com/users/YOUR_USERNAME" target="_blank">
   <img src="https://cdn.simpleicons.org/codechef/5B4638" height="42" alt="CodeChef"/>
 </a>
-&nbsp;&nbsp;&nbsp;
 
-<!-- Codeforces -->
-<a href="https://codeforces.com/profile/YOUR_USERNAME" target="_blank">
-  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="42" alt="Codeforces"/>
-</a>
 
 </div>
 
