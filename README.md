@@ -67,7 +67,7 @@
 
 I'm **Aman Jaiswal**, a Software Engineer passionate about designing scalable systems, building intelligent products, and solving complex engineering problems through modern technologies.
 
-My expertise spans **Backend Engineering**, **AI/ML**, **Cloud-native Development**, and **Full Stack Product Engineering**. I enjoy transforming ideas into production-ready applications that emphasize clean architecture, scalability, performance, and maintainability.
+My expertise spans **Backend Engineering** and **Full Stack Product Engineering**. I enjoy transforming ideas into production-ready applications that emphasize clean architecture, scalability, performance, and maintainability.
 
 Currently pursuing **B.Tech in Electronics & Communication Engineering (IoT)** at **Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur**, I actively work on enterprise-grade software, AI-powered platforms, workflow automation systems, developer tooling, and modern web technologies.
 
