@@ -129,8 +129,6 @@ I strongly believe that exceptional software is built by combining engineering e
 
 # Projects
 
----
-
 <details>
 <summary>
 
