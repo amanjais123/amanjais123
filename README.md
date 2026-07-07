@@ -75,35 +75,6 @@ I strongly believe that exceptional software is built by combining engineering e
 
 ---
 
-## Professional Interests
-
-- Software Engineering
-- Backend Architecture
-- AI Product Engineering
-- Full Stack Development
-- Cloud Computing
-- DevOps & CI/CD
-- Open Source
-- Developer Experience
-
----
-
-## Open To
-
-✔ Software Engineering Internships
-
-✔ Backend Engineering Roles
-
-✔ Full Stack Development
-
-✔ Open Source Collaboration
-
-✔ Research Opportunities
-
-✔ Product Engineering
-
----
-
 # Tech Stack
 
 ## Programming Languages
