@@ -127,9 +127,7 @@ I strongly believe that exceptional software is built by combining engineering e
 
 ---
 
-# Featured Projects
-
-## Enterprise Software Portfolio
+# Projects
 
 ---
 
@@ -157,7 +155,7 @@ Instead of acting as a simple chatbot, NightCode behaves like an intelligent sof
 | **Security** | OAuth, Secure Sessions, Role Validation |
 | **Scale** | Designed for multi-user production deployment |
 | **Impact** | Reduced manual development effort through AI-assisted automation |
-| **Repository** | `https://github.com/YOUR_USERNAME/nightcode` |
+| **Repository** | `https://github.com/amanjais123/nightcode` |
 
 ### Key Engineering Highlights
 
@@ -200,7 +198,7 @@ The platform focuses on scalability, modularity, and seamless third-party integr
 | **Security** | JWT Authentication, RBAC |
 | **Scale** | Multi-user workflow execution |
 | **Impact** | AI-powered workflow automation |
-| **Repository** | `https://github.com/YOUR_USERNAME/flowyn` |
+| **Repository** | `https://github.com/amanjais123/flowyn` |
 
 ### Key Engineering Highlights
 
@@ -243,7 +241,7 @@ The platform emphasizes security, maintainability, and excellent user experience
 | **Security** | Protected APIs & Authorization |
 | **Performance** | Optimized API architecture |
 | **Impact** | Complete online learning platform |
-| **Repository** | `https://github.com/YOUR_USERNAME/edunova` |
+| **Repository** | `https://github.com/amanjais123/edunova` |
 
 ### Key Engineering Highlights
 
@@ -259,96 +257,6 @@ The platform emphasizes security, maintainability, and excellent user experience
 - Secure content management
 
 </details>
-
----
-
-<details>
-<summary>
-
-# Syncronous — Real-Time Communication Platform
-
-</summary>
-
-### Overview
-
-Syncronous is a modern communication platform featuring one-to-one messaging, group conversations, file sharing, and WebRTC-powered video calling. Built using scalable backend architecture with Socket.IO and modern React.
-
-<br>
-
-| Category | Details |
-|-----------|----------|
-| **Stack** | React • Node.js • Express • MongoDB • Socket.IO • WebRTC |
-| **Architecture** | Real-Time Event Driven System |
-| **Performance** | Low latency messaging |
-| **Security** | JWT Authentication |
-| **Scale** | Multi-user chat platform |
-| **Impact** | Enterprise collaboration platform |
-| **Repository** | `https://github.com/YOUR_USERNAME/syncronous` |
-
-### Key Engineering Highlights
-
-- Real-time messaging
-- Socket.IO architecture
-- Video calling
-- Group chats
-- File sharing
-- Authentication
-- Notifications
-- Online presence
-- Optimized backend APIs
-- Responsive interface
-
-</details>
-
----
-
-<details>
-<summary>
-
-# Smart Waste Segregation System (AI + IoT)
-
-</summary>
-
-### Overview
-
-An AI-powered IoT solution that automatically classifies waste into biodegradable and non-biodegradable categories using Computer Vision and embedded systems. Designed for smart city and municipal applications.
-
-<br>
-
-| Category | Details |
-|-----------|----------|
-| **Stack** | Raspberry Pi • TensorFlow Lite • OpenCV • MongoDB • React |
-| **Hardware** | Raspberry Pi, Camera, Servo Motors, Ultrasonic Sensors |
-| **AI** | Image Classification |
-| **Performance** | Automated waste detection |
-| **Security** | Secure API communication |
-| **Impact** | Smart city & sustainability solution |
-| **Repository** | `Coming Soon` |
-
-### Key Engineering Highlights
-
-- AI-based waste classification
-- TensorFlow Lite inference
-- IoT sensor integration
-- Cloud dashboard
-- Real-time monitoring
-- Fill-level analytics
-- Embedded system design
-- MERN dashboard
-- Smart municipal reporting
-- Sustainable automation
-
-</details>
-
----
-
-<div align="center">
-
-### Engineering Philosophy
-
-> *"Great software isn't just code—it's scalable architecture, thoughtful design, and meaningful impact."*
-
-</div>
 
 ---
 # Experience
